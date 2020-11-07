@@ -1,3 +1,4 @@
+---
 layout: slide
 title: "Welcome to the  third place!"
 ---
